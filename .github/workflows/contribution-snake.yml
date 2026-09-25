@@ -1,0 +1,26 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: rmdevops-sys
+          outputs: |
+            dist/github-contribution-snake.svg
+            dist/github-contribution-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist

@@ -1,142 +1,156 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="180" style="border-radius:50%;" alt="Raju">
+<img src="assets/hacker-banner.gif" width="100%" alt="RAJU animated coding banner">
+
+<br><br>
+
+<img src="assets/profile.jpg" width="160" alt="RAJU">
 
 # `RAJU`
 
 ### Full Stack Developer · Server Administrator · DevOps
 
-**Building scalable web solutions • deploying secure infrastructure • automating workflows**
+**Building web applications • managing infrastructure • deploying secure systems**
 
-[![GitHub](https://img.shields.io/badge/GitHub-rmdevops--sys-111827?style=for-the-badge&logo=github)](https://github.com/rmdevops-sys)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rmdevops.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rmdevops.in)
-[![Email](https://img.shields.io/badge/Email-hello%40rmservices.in-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rmservices.in)
+<a href="https://github.com/rmdevops-sys">
+<img src="https://img.shields.io/badge/GITHUB-rmdevops--sys-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+</a>
+<a href="https://rmdevops.in">
+<img src="https://img.shields.io/badge/PORTFOLIO-rmdevops.in-111827?style=for-the-badge&logo=googlechrome&logoColor=00eaff" alt="Portfolio">
+</a>
+<a href="mailto:hello@rmdevops.in">
+<img src="https://img.shields.io/badge/EMAIL-hello%40rmdevops.in-111827?style=for-the-badge&logo=gmail&logoColor=00ff88" alt="Email">
+</a>
 
 </div>
 
 ---
 
-## `> whoami`
-
-```bash
-raju@rmdevops-sys:~$ whoami
-
-Full Stack Developer
-Server Administrator
-DevOps Engineer
-Problem Solver
-Tech Enthusiast
-Lifelong Learner
-```
-
-I build modern web applications, manage Linux/VPS infrastructure, and work across development, deployment, server administration, APIs, security, and automation.
-
----
-
-## `> tech --stack`
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite&logoColor=646CFF)
-
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=68A063)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=DC382D)
-
-### DevOps / Infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0f172a?style=for-the-badge&logo=ubuntu&logoColor=E95420)
-![Nginx](https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=009639)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![OpenLiteSpeed](https://img.shields.io/badge/OpenLiteSpeed-0f172a?style=for-the-badge&logo=litespeed&logoColor=00AEEF)
-
----
-
-## `> services --list`
+## 🟢 `whoami`
 
 ```text
-[01] Web Development
-[02] Laravel / PHP Development
-[03] React Frontend Development
-[04] API Development & Integration
-[05] Linux / VPS Administration
-[06] Server Deployment & Optimization
-[07] DevOps & CI/CD
-[08] Server Security & Monitoring
-[09] Hosting Infrastructure
-[10] Automation
+┌──────────────────────────────────────────────────────────────┐
+│  RAJU                                                        │
+│  Full Stack Developer | Server Administrator | DevOps        │
+│                                                              │
+│  Web Development     ████████████████████                    │
+│  Backend / APIs      ██████████████████                      │
+│  Linux / VPS         ███████████████████                     │
+│  Deployment / DevOps ██████████████████                      │
+│  Security / Hardening █████████████████                      │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+I build modern web applications and manage the infrastructure behind them — from Laravel/PHP development and APIs to Linux servers, deployment, optimization, security and automation.
 
 ---
 
-## `> featured-projects`
+## ⚡ `tech --stack`
 
-| Project | Description | Stack |
+### `FRONTEND`
+
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+### `BACKEND`
+
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=68A063)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D)
+
+### `DEVOPS / INFRASTRUCTURE`
+
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![OpenLiteSpeed](https://img.shields.io/badge/OpenLiteSpeed-111827?style=for-the-badge&logo=litespeed&logoColor=00AEEF)
+
+---
+
+## 🛠️ `services --list`
+
+| # | Service | Focus |
 |---|---|---|
-| **RM Services** | Web development, hosting & digital solutions | Laravel · PHP · MySQL |
-| **RMDevOps** | Developer portfolio & admin solutions | Laravel · Tailwind · Vite |
-| **Wamigo** | Multi-purpose admin dashboard template | Laravel · Tailwind · JavaScript |
+| `01` | Web Development | Modern responsive websites & applications |
+| `02` | Laravel / PHP | Backend systems, dashboards & APIs |
+| `03` | React | Interactive frontend applications |
+| `04` | Server Administration | Linux, VPS & hosting infrastructure |
+| `05` | DevOps | Deployment, automation & CI/CD |
+| `06` | Security | Hardening, SSH, firewall & monitoring |
+| `07` | APIs | Integrations & backend services |
+| `08` | Optimization | Performance & production setup |
 
 ---
 
-## `> github --stats`
+## 🚀 `featured-projects`
 
-<div align="center">
+### 🟢 RM Services
+Web development, hosting and digital solutions.
 
-<img src="https://github-readme-stats.vercel.app/api?username=rmdevops-sys&show_icons=true&hide_border=true&theme=transparent&title_color=00ff88&icon_color=00eaff&text_color=9ca3af&bg_color=00000000" height="170">
+**Laravel · PHP · MySQL · JavaScript**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdevops-sys&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=9ca3af&bg_color=00000000" height="170">
+### 🔵 RMDevOps
+Developer portfolio and administration solutions.
 
-<br>
+**Laravel · Tailwind CSS · Vite**
 
-<img src="https://streak-stats.demolab.com?user=rmdevops-sys&hide_border=true&background=00000000&ring=00ff88&fire=ff00cc&currStreakLabel=00eaff&sideLabels=9ca3af&dates=64748b" alt="GitHub Streak">
+### 🟣 Wamigo
+Modern admin dashboard/template work.
 
-</div>
-
----
-
-## `> contribution --graph`
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rmdevops-sys&bg_color=00000000&color=00ff88&line=00eaff&point=ff00cc&area=true&hide_border=true)
-
-</div>
+**Laravel · Tailwind CSS · JavaScript**
 
 ---
 
-## `> current --focus`
+## 📊 `github --activity`
+
+### Contribution Snake
+
+The previous third-party activity graph and stats endpoints have been removed because they can return **`Invalid upstream response (402)`**.
+
+The repository now includes a GitHub Action that generates the contribution animation from GitHub data:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmdevops-sys/rmdevops-sys/output/github-contribution-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmdevops-sys/rmdevops-sys/output/github-contribution-snake.svg">
+  <img src="https://raw.githubusercontent.com/rmdevops-sys/rmdevops-sys/output/github-contribution-snake.svg" alt="GitHub contribution snake">
+</picture>
+
+---
+
+## 🖥️ `current --focus`
 
 ```text
-▣ Building scalable Laravel applications
-▣ Improving Linux/VPS infrastructure
-▣ Server security & hardening
-▣ DevOps automation
-▣ API integrations
-▣ Modern React + Tailwind interfaces
+[+] Laravel application architecture
+[+] Linux / VPS administration
+[+] Production deployment
+[+] Server security & hardening
+[+] API integrations
+[+] DevOps automation
+[+] React + Tailwind interfaces
 ```
 
 ---
 
-## `> connect`
+## 📡 `connect`
 
 <div align="center">
 
-**Portfolio:** https://rmdevops.in  
-**GitHub:** https://github.com/rmdevops-sys  
-**Email:** hello@rmservices.in
+**🌐 Portfolio**  
+https://rmdevops.in
+
+**🐙 GitHub**  
+https://github.com/rmdevops-sys
+
+**✉️ Email**  
+hello@rmdevops.in
 
 </div>
 
@@ -145,13 +159,13 @@ I build modern web applications, manage Linux/VPS infrastructure, and work acros
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│  CODE  →  DEPLOY  →  SECURE  →  AUTOMATE  →  GROW       │
-└──────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   CODE  →  DEPLOY  →  SECURE  →  AUTOMATE  →  GROW          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ### `Turning ideas into scalable web solutions.`
-
-![Profile Views](https://komarev.com/ghpvc/?username=rmdevops-sys&style=for-the-badge&color=00ff88)
 
 </div>
