@@ -93,17 +93,6 @@ I build modern web applications and the infrastructure behind them, working acro
 <tr>
 <td width="33%" valign="top">
 
-### 🟢 RM Services
-
-Web development, hosting and digital solutions.
-
-`Laravel` `PHP` `MySQL`
-
-<a href="https://rmservices.in">VISIT →</a>
-
-</td>
-<td width="33%" valign="top">
-
 ### 🔵 RMDevOps
 
 Developer portfolio and administration solutions.
